@@ -33,7 +33,7 @@ dependencies:
   - statsmodels=0.8.0
   - tensorflow=1.5.0
   - tqdm=4.22.0
-  - py-xgboost=0.71
+  - py-xgboost=0.60
   - spacy=2.0.11
   - boto=2.48.0
   - boto3=1.7.45
