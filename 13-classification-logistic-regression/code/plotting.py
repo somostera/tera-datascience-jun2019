@@ -70,6 +70,15 @@ def bar_plot_with_categorical(df, x, hue, order=None, figsize=(16, 8),
     plt.legend()
     plt.show()
 
+        
+def log_reg_plot(df, x, y, n_boot=100, y_jitter=.02,
+                 figsize=(16, 8), **sns_kwargs):
+
+    _, ax = plt.subplots(figsize=figsize)
+    ax.set_title('Logistic Regression Plot')
+    sns.regplot(x=x, y=y, data=df, logistic=True, 
+                n_boot=n_boot, y_jitter=y_jitter, **sns_kwargs)
+
 
 def plot_confusion_matrix(y_true, y_pred,
                           index_labels=('False (truth)', 'True (truth)'),
