@@ -1,4 +1,4 @@
-# Aula 13 - Regressão Logística & Métricas de Classificação
+# Aula 12 - Regressão Logística & Métricas de Classificação
 
 [Slides da aula](https://docs.google.com/presentation/d/1TOMSsLxFhmyEe7fIi0sjfrYwY7v8jxqIal1dBnXDcR8/edit?usp=sharing) com gifs animados :)
 
