@@ -1,4 +1,4 @@
-Pós-aula
+# PÃ³s-aula
 
 [Uma introducao mais detalhada sobre Bagging](https://mlcourse.ai/articles/topic5-part1-bagging/)
 
@@ -12,7 +12,7 @@ Pós-aula
 
 [Repositorio do Bootcamp passado com a aula do instrutor Luam](https://github.com/somostera/tera-data-science-jul2018/blob/master/21-ensembles/notebooks/Aula%2021%20-%20RandomForests%20e%20Ensembles.ipynb)
 
-O Assingment que eu coloquei no repositorio é o mesmo que o terceiro link pede para fazer. É uma boa forma para praticar :)
+O Assingment que eu coloquei no repositorio Ã© o mesmo que o terceiro link pede para fazer. Ã‰ uma boa forma para praticar :)
 
-O curso mlcourse.ai por si só é muito bom e além de ter me inspirado bastante, recomendo muito que qualquer um que queira se especializar como Cientista de Dados faça-o :)
+O curso mlcourse.ai por si sÃ³ Ã© muito bom e alÃ©m de ter me inspirado bastante, recomendo muito que qualquer um que queira se especializar como Cientista de Dados faÃ§a-o :)
 
