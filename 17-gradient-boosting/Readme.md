@@ -10,7 +10,7 @@ Baixem os [slides](https://docs.google.com/presentation/d/1Grj3ilehhAwK1UKYwQPh6
 
 - Blog post: [LightGBM and XGBoost Explained](http://mlexplained.com/2018/01/05/lightgbm-and-xgboost-explained)
 
-- Apresentação: [Game Theory and Model Interpretability](https://docs.google.com/presentation/d/1Rw2MWZSjIWnGYX0A4EIN_zj6sZaPyilQol63Xn8cn5Y/edit?usp=sharing)
+- Apresentação: [Game Theory and Model Interpretability](https://docs.google.com/presentation/d/1SW4Yu0oMyyNwo1WXec7u6VpXEDAsBxw8nTyyo1ouC-0/edit?usp=sharing)
 
 - Blog post: [Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
 
