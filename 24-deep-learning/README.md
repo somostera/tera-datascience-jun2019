@@ -1,4 +1,4 @@
-# Aula 32 - Deep Learning
+# Aula 24 - Deep Learning
 
 ## Preparação pré-aula:
 
